@@ -2,7 +2,7 @@
   "name": "developers-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://hennadiiandr.github.io/developers-landing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
