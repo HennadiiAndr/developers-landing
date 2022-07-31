@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+   display: flex;
+   width: 100%;
+   min-height: 5000px;
+   justify-content: center;
+   background-color: black;
+   .mainflow{
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      max-width: 1440px;
+      width: 1920px;
+      min-height: 6478px;
+      background-color:#FFFFFF;
+}
+}
